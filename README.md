@@ -2,7 +2,7 @@
 
 
 ## Project Name: Luminar Technolab
-## Description: This is a basic website which contains home, about, services, team, contact etc. linked between each other built with HTML.
+This is a basic website which contains home, about, services, team, contact etc. linked between each other built with HTML.
 
 ### Screenshots:
 #### 1. Home Page:
@@ -25,7 +25,7 @@ Team page shows the details about the company team members.
 ![Contact Page](/images/Screenshot%202026-06-09%20at%2017-08-28%20Contact.png)
 Contact page contains a contact form, map and address of the company.
 
-### 6. Technology used:
+### Technology used:
 - HTML
 
 ### Installation:
